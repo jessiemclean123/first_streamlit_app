@@ -61,7 +61,7 @@ if streamlit.button('Get fruit load list'):
 #import requests
 
 #dont run anything past here whilst we troubleshoot
-streamlit.stop()
+#streamlit.stop()
 
 #import snowflake.connector
 
